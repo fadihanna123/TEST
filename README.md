@@ -8,34 +8,34 @@ Här kan man lägga till, redigera, radera dessa json data.<br />
 css/ <br />
 css/\_main.css<br />
 css/\_main.min.css <br />
-Sass/ <br />
-Sass/abstracts/ <br />
-Sass/abstracts/\_variables.scss <br />
-Sass/abstracts/all.scss <br />
-Sass/components/ <br />
-Sass/components/\_forms.scss <br />
-Sass/components/\_headings.scss <br />
-Sass/components/\_lines.scss <br />
-Sass/components/\_links.scss <br />
-Sass/components/all.scss <br />
-Sass/core/ <br />
-Sass/core/\_reset.scss <br />
-Sass/core/all.scss <br />
-Sass/layout/ <br />
-Sass/layout/\_footer.scss <br />
-Sass/layout/\_header.scss <br />
-Sass/layout/\_navigation.scss <br />
-Sass/layout/\_other.scss <br />
-Sass/layout/all.scss <br />
-Sass/pages/ <br />
-Sass/pages/\_add.scss <br />
-Sass/pages/\_change.scss <br />
-Sass/pages/\_contact.scss <br />
-Sass/pages/\_login.scss <br />
-Sass/pages/all.scss <br />
-Sass/\_main.scss <br />
-Images/ <br />
-Images/Logo.jpg<br />
+sass/ <br />
+sass/abstracts/ <br />
+sass/abstracts/\_variables.scss <br />
+sass/abstracts/all.scss <br />
+sass/components/ <br />
+sass/components/\_forms.scss <br />
+sass/components/\_headings.scss <br />
+sass/components/\_lines.scss <br />
+sass/components/\_links.scss <br />
+sass/components/all.scss <br />
+sass/core/ <br />
+sass/core/\_reset.scss <br />
+sass/core/all.scss <br />
+sass/layout/ <br />
+sass/layout/\_footer.scss <br />
+sass/layout/\_header.scss <br />
+sass/layout/\_navigation.scss <br />
+sass/layout/\_other.scss <br />
+sass/layout/all.scss <br />
+sass/pages/ <br />
+sass/pages/\_add.scss <br />
+sass/pages/\_change.scss <br />
+sass/pages/\_contact.scss <br />
+sass/pages/\_login.scss <br />
+sass/pages/all.scss <br />
+sass/\_main.scss <br />
+images/ <br />
+images/Logo.jpg<br />
 includes/
 includes/header.php<br />
 includes/footer.php<br />
@@ -46,10 +46,10 @@ lib/admin.class.php <br />
 js/ <br />
 js/functions.js <br />
 js/functions.min.js <br />
-TS/ <br />
-TS/typings/ <br />
-TS/typings/index.ts <br />
-TS/functions.ts <br />
+ts/ <br />
+ts/typings/ <br />
+ts/typings/index.ts <br />
+ts/functions.ts <br />
 .gitignore <br />
 add.php <br />
 change.php <br />

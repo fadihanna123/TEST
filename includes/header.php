@@ -23,7 +23,7 @@
             <div class="logobox">
                 <a href="./index.php">
                     <!-- Lägg till logobilden -->
-                    <img src="./Images/Logo.jpg" alt="Logobild" id="logobild" />
+                    <img src="./images/Logo.jpg" alt="Logobild" id="logobild" />
                 </a>
             </div>
             <!-- Definera länkmeny -->
